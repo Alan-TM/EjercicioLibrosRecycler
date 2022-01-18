@@ -1,6 +1,6 @@
-##Ejercicio recycler view
+Ejercicio recycler view
 
-#Equipo
+Equipo
 
 ·Diego Castañeda
 ·Edwin Mendez
